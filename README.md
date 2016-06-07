@@ -1,2 +1,2 @@
-# bolao90x10
+# Bolao90x10
 Sistema de Bolão de Campeonatos de Futebol
